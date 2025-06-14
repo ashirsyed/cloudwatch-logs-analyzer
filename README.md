@@ -52,6 +52,10 @@ Run the agent with the Streamlit web interface:
 
 Then open your browser at http://localhost:8501
 
+
+<img width="1511" alt="Screenshot 2025-06-14 at 9 41 39 PM" src="https://github.com/user-attachments/assets/6cf0001a-0a34-4019-9eb2-8ac12735a30c" />
+
+
 ## Web Interface Features
 
 The Streamlit interface provides:
